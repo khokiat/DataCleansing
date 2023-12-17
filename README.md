@@ -11,8 +11,10 @@
 !wget -q https://archive.apache.org/dist/spark/spark-3.1.2/spark-3.1.2-bin-hadoop2.7.tgz #Dowload 
 ```
 ### Install Spark 3.1.2
-!tar xzvf spark-3.1.2-bin-hadoop2.7.tgz                                                  # Unzip Spark 3.1.2 file
+```
+!tar xzvf spark-3.1.2-bin-hadoop2.7.tgz  # Unzip Spark 3.1.2 file
 !pip install -q findspark==1.3.0
+```
 ### Set enviroment variable Python and Spark
 ```
 import os
