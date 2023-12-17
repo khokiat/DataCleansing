@@ -1,5 +1,6 @@
 # DataCleansing
-Using apache spark and matplotlib to overview data and clean data.
++ Using apache spark and matplotlib to overview data and clean data.
++ This practice was run on google colab
 
 ## Installing Apache spark
 ### Update apackage in VM
